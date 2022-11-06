@@ -1,5 +1,6 @@
 # T.A.S-QUIZ
 O T.A.S Quiz é um aplicativo educacional, enquanto nas cadeiras de Princípios de Programação e Projeto Interdisciplinar de SI (Sistemas de Informação) I.
+Produzido no APP INVENTOR.
 
 O T.A.S Quiz é um aplicativo educacional, feito para qualquer pessoa que queira aprender e testar seus conhecimentos em sustentabilidade. O intuito é se divertir aprendendo, sobre este assunto que é tão corrente em nosso dia-a-dia.
 
